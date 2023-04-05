@@ -1,0 +1,12 @@
+body {
+  background-color: azure;
+}
+h1 {
+  color: darkgreen;
+}
+h2 {
+  color: darkolivegreen;
+}
+png4 {display: flex;
+  justify-content: space-between
+}
