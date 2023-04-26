@@ -1,0 +1,14 @@
+img {
+    align-items: center;
+    height: 100px; width: 100px;
+}
+.photos{
+    display: flex;
+    justify-content: center;
+    align-content: stretch;
+}
+
+.photos:hover > :not(:hover ){
+    opacity: 0.5;
+    transform: scale(0.5);
+    }
